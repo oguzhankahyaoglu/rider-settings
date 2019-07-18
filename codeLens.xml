@@ -2,6 +2,7 @@
   <component name="CodeLensSettings">
     <enabled>
       <map>
+        <entry key="Derived symbols" value="false" />
         <entry key="Usages" value="false" />
         <entry key="VcsAuthorCodeLensProvider" value="false" />
       </map>
