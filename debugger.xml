@@ -8,6 +8,7 @@
       <debugger id="dotnet_debugger">
         <configuration>
           <option name="enableExternalSourceDebug" value="false" />
+          <option name="evaluationTimeoutMs" value="20000" />
           <option name="shouldPromoteEditAndContinue" value="false" />
           <option name="remappedSourceLocationsMap">
             <map />
