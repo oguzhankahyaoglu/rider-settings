@@ -1,10 +1,16 @@
 <application>
-  <component name="CodeLensSettings">
+  <component name="CodeLensSettings" defaultAnchor="Right">
+    <anchor>
+      <map>
+        <entry key="VcsAuthorCodeLensProvider" value="Default" />
+      </map>
+    </anchor>
     <enabled>
       <map>
-        <entry key="Usages" value="false" />
-        <entry key="VcsAuthorCodeLensProvider" value="false" />
+        <entry key="Usages" value="true" />
+        <entry key="VcsAuthorCodeLensProvider" value="true" />
       </map>
     </enabled>
+    <showUnavailable>false</showUnavailable>
   </component>
 </application>
