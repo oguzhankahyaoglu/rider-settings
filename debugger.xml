@@ -7,6 +7,10 @@
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
+          <option name="allowTypingDuringDebug" value="true" />
+          <option name="dontShowWritePermissionDialog" value="true" />
+          <option name="editAndContinueEnabled" value="false" />
+          <option name="shouldPromoteEditAndContinue" value="false" />
           <option name="remappedSourceLocationsMap">
             <map />
           </option>

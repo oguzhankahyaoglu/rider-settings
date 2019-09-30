@@ -7,8 +7,10 @@
     </anchor>
     <enabled>
       <map>
+        <entry key="Usages" value="true" />
         <entry key="VcsAuthorCodeLensProvider" value="false" />
       </map>
     </enabled>
+    <showUnavailable>false</showUnavailable>
   </component>
 </application>
