@@ -9,6 +9,10 @@
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
+  <codeStyleSettings language="JavaScript">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="true" />
+    <option name="LINE_COMMENT_ADD_SPACE" value="false" />
+  </codeStyleSettings>
   <codeStyleSettings language="LESS">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <indentOptions>
