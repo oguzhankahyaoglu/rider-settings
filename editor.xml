@@ -15,5 +15,7 @@
     <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
-  <component name="LiveEditOptions" chromeAutoDelay="500" useJBChromeExtension="true" />
+  <component name="LiveEditOptions" chromeAutoDelay="500" updateFilesToCompile="true" useJBChromeExtension="true">
+    <option name="elementHighlighting" value="true" />
+  </component>
 </application>
