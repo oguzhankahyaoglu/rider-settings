@@ -24,5 +24,6 @@
     <entry key="ide.win.frame.decoration" value="true" />
     <entry key="show.log.as.editor.tab" value="true" />
     <entry key="show.diff.preview.as.editor.tab" value="true" />
+    <entry key="ide.svg.icon" value="true" />
   </component>
 </application>
