@@ -1,16 +1,6 @@
 <application>
-  <component name="CodeInsightSettings">
-    <option name="PARAMETER_INFO_DELAY" value="300" />
-    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
-    <option name="INSERT_BRACE_ON_ENTER" value="false" />
-  </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
-  </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
-  <component name="LiveEditOptions" chromeAutoDelay="500" chromeUpdateOnChanges="false" />
 </application>
