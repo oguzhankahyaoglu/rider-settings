@@ -1,7 +1,9 @@
 <application>
-  <component name="CodeLensSettings">
+  <component name="CodeLensSettings" defaultAnchor="Right">
     <enabled>
-      <map />
+      <map>
+        <entry key="VcsAuthorCodeLensProvider" value="false" />
+      </map>
     </enabled>
   </component>
 </application>
