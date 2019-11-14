@@ -1,0 +1,9 @@
+<keymap version="1" name="Visual Studio copy 1" parent="Visual Studio">
+  <action id="ChangesView.GroupBy.Directory" />
+  <action id="ServiceView.GroupByServiceGroups" />
+  <action id="TodoViewGroupByShowPackages" />
+  <action id="XDebugger.AttachToLocalProcess" />
+  <action id="XDebugger.AttachToProcess">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
+</keymap>
