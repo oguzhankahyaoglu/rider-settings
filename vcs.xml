@@ -6,6 +6,10 @@
           <option name="url" value="http://scm.enerjisauretim.com:7990" />
           <option name="userName" value="oguzhan.kahyaoglu" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="oguzhankahyaoglu" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
