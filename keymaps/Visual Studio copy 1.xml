@@ -1,0 +1,5 @@
+<keymap version="1" name="Visual Studio copy 1" parent="Visual Studio">
+  <action id="XDebugger.AttachToProcess">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
+</keymap>
