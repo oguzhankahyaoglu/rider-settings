@@ -12,8 +12,8 @@
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
   <component name="RiderCodeCompletionExtraSettings">
-    <option name="allowToCompleteWithWhitespace" value="false" />
     <option name="alwaysCompleteWithEnter" value="true" />
     <option name="hasNotifiedAboutCompletingWithEnter" value="true" />
+    <option name="hasNotifiedAboutCompletingWithSpace" value="true" />
   </component>
 </application>
