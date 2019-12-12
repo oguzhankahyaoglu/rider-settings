@@ -1,6 +1,9 @@
 <application>
   <component name="UISettings">
     <option name="EDITOR_TAB_PLACEMENT" value="4" />
+    <option name="MAX_CLIPBOARD_CONTENTS" value="500" />
     <option name="MAX_LOOKUP_WIDTH2" value="1000" />
+    <option name="RECENT_FILES_LIMIT" value="100" />
+    <option name="RECENT_LOCATIONS_LIMIT" value="100" />
   </component>
 </application>
