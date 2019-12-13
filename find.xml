@@ -3,11 +3,13 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.cs</mask>
     <mask>*.cshtml</mask>
     <mask>*.js</mask>
+    <mask>*.less</mask>
   </component>
 </application>
