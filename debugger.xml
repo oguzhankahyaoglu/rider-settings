@@ -5,6 +5,11 @@
     </data-views>
     <general />
     <debuggers>
+      <debugger id="dotnet_debugger">
+        <configuration>
+          <option name="needNotifyWhenStoppedInExternalCode" value="false" />
+        </configuration>
+      </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
