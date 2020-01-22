@@ -7,6 +7,7 @@
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
+          <option name="enableExternalSourceDebug" value="false" />
           <option name="needNotifyWhenStoppedInExternalCode" value="false" />
           <option name="showRunToPanel" value="false" />
         </configuration>
