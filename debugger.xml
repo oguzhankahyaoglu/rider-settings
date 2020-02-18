@@ -3,7 +3,9 @@
     <data-views>
       <option name="valueLookupDelay" value="150" />
     </data-views>
-    <general />
+    <general>
+      <run-to-cursor-gesture>false</run-to-cursor-gesture>
+    </general>
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
