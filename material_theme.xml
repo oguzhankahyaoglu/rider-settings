@@ -1,0 +1,14 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactStatusBar" value="true" />
+    <option name="accentMode" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="2aa298" />
+    <option name="selectedTheme" value="NATIVE" />
+    <option name="userId" value="-50437f35:171a1bbf0f6:-8000" />
+    <option name="version" value="5.2.0" />
+  </component>
+</application>
