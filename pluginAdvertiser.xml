@@ -83,15 +83,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.asmdef">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.resharper.unity" />
-              <option name="myPluginName" value="Unity Support" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.asmx">
           <value>
             <plugin>
@@ -106,15 +97,6 @@
             <plugin>
               <option name="myPluginId" value="com.jetbrains.rider.razor" />
               <option name="myPluginName" value="Support for ASP.NET and Razor" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.asset">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.resharper.unity" />
-              <option name="myPluginName" value="Unity Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -191,24 +173,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.cg">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.cginc">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.chm">
           <value>
             <plugin>
@@ -241,15 +205,6 @@
             <plugin>
               <option name="myPluginId" value="org.coffeescript" />
               <option name="myPluginName" value="CoffeeScript" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.compute">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -533,47 +488,11 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.fs">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.rider.fsharp" />
-              <option name="myPluginName" value="F# Support" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.fsi">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.rider.fsharp" />
-              <option name="myPluginName" value="F# Support" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.fsproj">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.fsscript">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.rider.fsharp" />
-              <option name="myPluginName" value="F# Support" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.fsx">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.rider.fsharp" />
-              <option name="myPluginName" value="F# Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -614,21 +533,11 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.glsl">
+        <entry key="*.gohtml">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij.resharper.unity" />
-              <option name="myPluginName" value="Unity Support" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.glslinc">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.resharper.unity" />
-              <option name="myPluginName" value="Unity Support" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="org.jetbrains.plugins.go-template" />
+              <option name="myPluginName" value="Go Template" />
             </plugin>
           </value>
         </entry>
@@ -714,15 +623,6 @@
           </value>
         </entry>
         <entry key="*.hlsli">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.hlslinc">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
@@ -822,15 +722,6 @@
           </value>
         </entry>
         <entry key="*.iml">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.inputactions">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
@@ -1037,6 +928,22 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.kubernetes-helm-txt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.kubernetes" />
+              <option name="myPluginName" value="com.intellij.kubernetes" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.kubernetes-helm-yaml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.kubernetes" />
+              <option name="myPluginName" value="com.intellij.kubernetes" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.less">
           <value>
             <plugin>
@@ -1109,38 +1016,11 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.meta">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.resharper.unity" />
-              <option name="myPluginName" value="Unity Support" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.mjs">
           <value>
             <plugin>
               <option name="myPluginId" value="JavaScript" />
               <option name="myPluginName" value="JavaScript and TypeScript" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.ml">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.rider.fsharp" />
-              <option name="myPluginName" value="F# Support" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.mli">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.rider.fsharp" />
-              <option name="myPluginName" value="F# Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1406,15 +1286,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.prefab">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.resharper.unity" />
-              <option name="myPluginName" value="Unity Support" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.proj">
           <value>
             <plugin>
@@ -1564,15 +1435,6 @@
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.shader">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.resharper.unity" />
-              <option name="myPluginName" value="Unity Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1897,33 +1759,6 @@
             <plugin>
               <option name="myPluginId" value="com.intellij.diagram" />
               <option name="myPluginName" value="UML" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.unity">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.resharper.unity" />
-              <option name="myPluginName" value="Unity Support" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.uss">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.resharper.unity" />
-              <option name="myPluginName" value="com.intellij.resharper.unity" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.uxml">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.resharper.unity" />
-              <option name="myPluginName" value="Unity Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -2551,6 +2386,21 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="AzureDotNetWebAppPublish">
+                    <value>
+                      <FeaturePluginData displayName="Azure - Publish Web App" pluginName="Azure Toolkit for Rider" pluginId="com.intellij.resharper.azure" />
+                    </value>
+                  </entry>
+                  <entry key="AzureFunctionAppPublish">
+                    <value>
+                      <FeaturePluginData displayName="Azure - Publish Function App" pluginName="Azure Toolkit for Rider" pluginId="com.intellij.resharper.azure" />
+                    </value>
+                  </entry>
+                  <entry key="AzureFunctionsHost">
+                    <value>
+                      <FeaturePluginData displayName="Azure Functions host" pluginName="Azure Toolkit for Rider" pluginId="com.intellij.resharper.azure" />
+                    </value>
+                  </entry>
                   <entry key="ChromiumRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
@@ -2676,19 +2526,9 @@
                       <FeaturePluginData displayName="Native Executable" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
-                  <entry key="RunUnityExe">
-                    <value>
-                      <FeaturePluginData displayName="Standalone Player" pluginName="Unity Support" pluginId="com.intellij.resharper.unity" />
-                    </value>
-                  </entry>
                   <entry key="TSqltConfigurationType">
                     <value>
                       <FeaturePluginData displayName="tSQLt Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
-                    </value>
-                  </entry>
-                  <entry key="UNITY_DEBUG_RUN_CONFIGURATION">
-                    <value>
-                      <FeaturePluginData displayName="Attach to Unity Editor" pluginName="Unity Support" pluginId="com.intellij.resharper.unity" />
                     </value>
                   </entry>
                   <entry key="UtPlSqlConfigurationType">

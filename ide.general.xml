@@ -14,7 +14,6 @@
     <entry key="performance.watcher.sampling.interval.ms" value="200" />
     <entry key="performance.watcher.unresponsive.interval.ms" value="1000" />
     <entry key="ide.tooltip.initialDelay" value="0" />
-    <entry key="ide.tooltip.initialDelay.highlighter" value="0" />
     <entry key="ide.win.file.chooser.native" value="true" />
     <entry key="ide.tree.horizontal.default.autoscrolling" value="false" />
     <entry key="ide.borderless.title.project.path" value="false" />
@@ -33,6 +32,8 @@
     <entry key="vcs.log.show.diff.preview.as.editor.tab" value="true" />
     <entry key="light.edit.file.open.enabled" value="false" />
     <entry key="rdclient.asyncActions" value="false" />
+    <entry key="ide.borderless.tab.caption.in.title" value="false" />
+    <entry key="ide.debug.in.title" value="true" />
     <entry key="debugger.show.values.use.inlays" value="false" />
     <entry key="ide.mac.bigsur.alerts.enabled" value="false" />
     <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
