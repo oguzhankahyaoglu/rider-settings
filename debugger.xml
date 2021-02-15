@@ -1,7 +1,9 @@
 <application>
   <component name="XDebuggerSettings">
     <data-views>
-      <option name="valueLookupDelay" value="150" />
+      <option name="autoExpressions" value="false" />
+      <option name="valueLookupDelay" value="50" />
+      <show-values-inline>false</show-values-inline>
     </data-views>
     <general>
       <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
