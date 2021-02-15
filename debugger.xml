@@ -10,6 +10,7 @@
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
+          <option name="editAndContinueEnabled" value="false" />
           <option name="evaluationTimeoutMs" value="15000" />
           <option name="needNotifyWhenStoppedInExternalCode" value="false" />
           <option name="showReturnValues" value="false" />
