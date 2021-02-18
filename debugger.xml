@@ -1,7 +1,6 @@
 <application>
   <component name="XDebuggerSettings">
     <data-views>
-      <option name="autoExpressions" value="false" />
       <option name="valueLookupDelay" value="50" />
       <show-values-inline>false</show-values-inline>
     </data-views>
@@ -15,7 +14,6 @@
           <option name="editAndContinueEnabled" value="false" />
           <option name="evaluationTimeoutMs" value="15000" />
           <option name="needNotifyWhenStoppedInExternalCode" value="false" />
-          <option name="showReturnValues" value="false" />
           <option name="showRunToPanel" value="false" />
           <option name="smartStepIntoByDefault" value="false" />
         </configuration>
