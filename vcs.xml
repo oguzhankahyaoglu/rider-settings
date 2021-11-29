@@ -14,8 +14,13 @@
           <option name="url" value="http://scm.enerjisauretim.com:7990" />
           <option name="userName" value="oguzhan.kahyaoglu" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:enerjisauretim/ppm-webapi.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\Workspace\Github" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
