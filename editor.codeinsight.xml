@@ -3,4 +3,7 @@
     <option name="hasNotifiedAboutCompletingWithEnter" value="true" />
     <option name="hasNotifiedAboutCompletingWithSpace" value="true" />
   </component>
+  <component name="RiderDefaultCodeFoldingSettings">
+    <option name="collapseRegions" value="false" />
+  </component>
 </application>
