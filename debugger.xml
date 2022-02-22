@@ -19,6 +19,13 @@
           <option name="showReturnValues" value="false" />
           <option name="showRunToPanel" value="false" />
           <option name="smartStepIntoByDefault" value="false" />
+          <option name="userUnhandledExceptionsIgnoreList">
+            <list>
+              <option value="System.OperationCanceledException" />
+              <option value="System.Threading.ThreadAbortException" />
+              <option value="Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException" />
+            </list>
+          </option>
         </configuration>
       </debugger>
       <debugger id="javascript">
