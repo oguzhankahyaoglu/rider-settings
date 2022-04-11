@@ -4,7 +4,6 @@
     <option name="EDITOR_TAB_LIMIT" value="50" />
     <option name="EDITOR_TAB_PLACEMENT" value="4" />
     <option name="MAX_LOOKUP_WIDTH2" value="1000" />
-    <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="SHOW_NAVIGATION_BAR" value="false" />
     <option name="smoothScrolling" value="false" />
   </component>
