@@ -9,11 +9,13 @@
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
+    <option name="AUTOREPARSE_DELAY" value="100" />
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="STRIP_TRAILING_SPACES" value="None" />
+    <option name="TOOLTIPS_DELAY_MS" value="50" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
   <component name="InlayHintsSettings">

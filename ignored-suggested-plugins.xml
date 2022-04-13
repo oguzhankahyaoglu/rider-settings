@@ -1,0 +1,10 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="com.intellij.resharper.StructuredLogging" />
+        <option value="Abc.MoqComplete.Rider" />
+      </list>
+    </option>
+  </component>
+</application>
