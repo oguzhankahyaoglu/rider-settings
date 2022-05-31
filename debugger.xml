@@ -24,6 +24,7 @@
               <option value="System.OperationCanceledException" />
               <option value="System.Threading.ThreadAbortException" />
               <option value="Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException" />
+              <option value="Microsoft.IdentityModel.Tokens.SecurityTokenException" />
             </list>
           </option>
         </configuration>
