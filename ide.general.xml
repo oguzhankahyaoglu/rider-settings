@@ -25,4 +25,11 @@
     <entry key="ide.mac.bigsur.window.with.tabs.enabled" value="false" />
     <entry key="ide.borderless.title.version" value="false" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="ReadOnlyAttribute" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
